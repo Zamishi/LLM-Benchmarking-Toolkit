@@ -1,0 +1,9 @@
+PyQt5
+pytesseract
+mss
+keyboard
+Pillow
+sympy
+requests
+openai
+
